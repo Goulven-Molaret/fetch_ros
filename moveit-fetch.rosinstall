@@ -9,7 +9,7 @@
 - git:
     local-name: moveit
     uri: https://github.com/ros-planning/moveit.git
-    version: b1bcd7c4772cbbf1c6c2fff907164b24389ead0b
+    version: a809db2567b6cc51ad1009542130db5505bb5580
 - git:
     local-name: rviz_visual_tools
     uri: https://github.com/PickNikRobotics/rviz_visual_tools
@@ -17,11 +17,11 @@
 - git:
     local-name: moveit_visual_tools
     uri: https://github.com/ros-planning/moveit_visual_tools.git
-    version: b1bcd7c4772cbbf1c6c2fff907164b24389ead0b
+    version: 972b87384ce1bf5627ef6bfed916fb32cfd5a2b0
 - git:
     local-name: moveit_tutorials
     uri: https://github.com/ros-planning/moveit_tutorials.git
-    version: b1bcd7c4772cbbf1c6c2fff907164b24389ead0b
+    version: a73b25f0dd2c20799f2f5bd87b42fb9f4caa63b7
 - git:
     local-name: fetch_ros
     uri: https://github.com/Goulven-Molaret/fetch_ros.git
