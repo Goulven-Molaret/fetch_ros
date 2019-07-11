@@ -9,7 +9,7 @@
 - git:
     local-name: moveit
     uri: https://github.com/ros-planning/moveit.git
-    version: a809db2567b6cc51ad1009542130db5505bb5580
+    version: d2439417db01448e6ab9aada45f295f37608327c
 - git:
     local-name: rviz_visual_tools
     uri: https://github.com/PickNikRobotics/rviz_visual_tools
